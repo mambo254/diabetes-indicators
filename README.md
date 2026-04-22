@@ -32,26 +32,9 @@ It identifies key risk factors and builds a machine learning model for early det
 
 | Model | Accuracy | Status |
 |------|--------|--------|
-| Logistic Regression | **83.4%** | ✅ Best |
-| Decision Tree | 54.3% | ❌ Weak |
+| Logistic Regression | **83.4%** | |
+| Decision Tree | 54.3% | |
 
----
-
-## 📊 Visualizations
-
-### Diabetes Distribution
-![Diabetes Pie Chart](images/diabetes_distribution.png)
-
-### Age vs Diabetes
-![Age Plot](images/age_diabetes.png)
-
-### BMI vs Diabetes
-![BMI Plot](images/bmi_diabetes.png)
-
-### Correlation Heatmap
-![Heatmap](images/correlation_heatmap.png)
-
----
 
 ## 🛠️ Tech Stack
 - Python  
